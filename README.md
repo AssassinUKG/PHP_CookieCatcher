@@ -48,5 +48,9 @@ Screenshots.
 
 Windows
 
+![image](https://user-images.githubusercontent.com/5285547/132856213-6e5abeb2-94fe-43a6-b24f-149868a83ab7.png)
 
 Linux
+
+![image](https://user-images.githubusercontent.com/5285547/132856713-36b21833-549f-47f0-a76c-11742973f1c0.png)
+
